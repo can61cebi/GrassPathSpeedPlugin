@@ -1,0 +1,5 @@
+name: GrassPathSpeedPlugin
+main: com.cebi.GrassPathSpeedPlugin
+version: 1.0
+api-version: "1.21"
+description: Oyuncu dirt path üzerinde bulunduğunda Potion of Swiftness II efektini uygulayan plugin.
