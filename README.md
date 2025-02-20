@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6dc97132-f51e-4ee5-9520-4041c3551407)# GrassPathSpeedPlugin
+# GrassPathSpeedPlugin
 
 A simple yet robust Minecraft Paper plugin that grants players a continuous **Speed II** effect while walking or jumping on Dirt Path (previously known as Grass Path). It ensures a seamless experience whether a player is:
 
