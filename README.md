@@ -23,7 +23,7 @@ A simple yet robust Minecraft Paper plugin that grants players a continuous **Sp
 4. **Configurable Intervals**  
    - By default, the plugin checks every 5 ticks (0.25 seconds). This can be adjusted to balance performance and responsiveness for larger servers.
 
-<img src="https://github.com/can61cebi/GrassPathPlugin/blob/main/images/demo.gif" width="400">
+<img src="https://github.com/can61cebi/GrassPathSpeedPlugin/blob/main/image/demo.gif" width="400">
 
 ## Installation
 
